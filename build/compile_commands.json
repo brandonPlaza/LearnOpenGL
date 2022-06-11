@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/kpanik/Documents/Personal/Projects/LearnOpenGL/build",
+  "command": "/usr/bin/g++ -I/home/kpanik/Documents/Personal/Projects/LearnOpenGL/lib/glfw -I/home/kpanik/Documents/Personal/Projects/LearnOpenGL/lib/glfw/deps -I/home/kpanik/Documents/Personal/Projects/LearnOpenGL/lib/glfw/include -isystem /home/kpanik/vcpkg/installed/x64-linux/include -g -o CMakeFiles/LearningOpenGL.dir/main.cpp.o -c /home/kpanik/Documents/Personal/Projects/LearnOpenGL/main.cpp",
+  "file": "/home/kpanik/Documents/Personal/Projects/LearnOpenGL/main.cpp"
+}
+]
